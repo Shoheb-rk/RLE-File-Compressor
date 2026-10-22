@@ -1,0 +1,7 @@
+# Compiled executable
+*.exe
+
+# Generated RLE files
+compressed.txt
+decompressed.txt
+*.rle
